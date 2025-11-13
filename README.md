@@ -41,7 +41,7 @@ MadeNews is an Android application that transforms user-written headlines into h
 - Firebase Authentication  
 - Firestore / Realtime Database  
 - Weekly backend cron for auto-refresh  
-- REST endpoints (optional future expansion)
+- REST endpoints
 
 ### AI Integration
 - GroqCloud API  
@@ -98,13 +98,13 @@ git clone https://github.com/amankumar110/MadeNews_App.git
 - MVVM + Clean Architecture  
 - Basic UI screens  
 - Firebase setup  
-- AI story generation flow  
+- AI story generation flow
+- Auto-refresh for 25 weekly articles 
 
 ### Upcoming
 - Public weekly story feed  
 - Leaderboard + Aura reactions  
-- Private/public story toggle  
-- Auto-refresh for 25 weekly articles  
+- Private/public story toggle   
 - Play Store release  
 
 ---
@@ -137,3 +137,27 @@ Feel free to open issues or submit pull requests.
 ## License
 
 Open-source for learning and portfolio usage.
+
+---
+
+## Preview
+
+### Splash Screen
+![App Splash Screen](splash-screen.jpeg)
+
+### Home Screen
+![App Home Screen](home.jpeg)
+
+### Story Screen
+![App Story Screen (Dialog Fragments)](story.jpeg)
+
+### User Account Screen
+![App User Account Screen](user.jpeg)
+
+### Login Screen
+![App Login Screen](login.jpeg)
+
+### Signup Screen
+![App Signup Screen](signup.jpeg)
+
+
